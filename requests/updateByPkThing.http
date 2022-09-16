@@ -1,0 +1,11 @@
+PATCH http://localhost:3000/things/2 HTTP/1.1
+Content-Type: application/json
+
+{
+  "body": "I like icecream!",
+  "author": "Valeria Pasgkova"
+}
+
+
+
+
