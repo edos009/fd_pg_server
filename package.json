@@ -1,0 +1,16 @@
+{
+  "name": "fd_pg_server",
+  "version": "1.0.0",
+  "description": "",
+  "privet": true,
+  "scripts": {
+    "start": "node ./server.js",
+    "start-dev": "nodemon ./server.js",
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
